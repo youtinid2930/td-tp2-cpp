@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710507715 source:c:\users\hp\desktop\td_tp2\exercice1\liste\liste\liste.cpp
+	"liste.h"
+	<iostream>
+
+1710506858 c:\users\hp\desktop\td_tp2\exercice1\liste\liste\liste.h
+
+1710507071 source:c:\users\hp\desktop\td_tp2\exercice1\liste\liste\main.cpp
+	<iostream>
+	"liste.h"
+

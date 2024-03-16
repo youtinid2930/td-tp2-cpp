@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710246497 source:c:\users\hp\desktop\td_tp2\exercice1\pileentier\main.cpp
+	<iostream>
+	"pileentier.h"
+
+1710247354 c:\users\hp\desktop\td_tp2\exercice1\pileentier\pileentier.h
+
+1710246908 source:c:\users\hp\desktop\td_tp2\exercice1\pileentier\pileentier.cpp
+	"pileentier.h"
+	<iostream>
+

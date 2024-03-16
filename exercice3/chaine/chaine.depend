@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710550278 source:c:\users\hp\desktop\td_tp2\exercice3\chaine\main.cpp
+	<iostream>
+	"chaine.h"
+
+1710550211 source:c:\users\hp\desktop\td_tp2\exercice3\chaine\chaine.cpp
+	<iostream>
+	"chaine.h"
+
+1710548664 c:\users\hp\desktop\td_tp2\exercice3\chaine\chaine.h
+

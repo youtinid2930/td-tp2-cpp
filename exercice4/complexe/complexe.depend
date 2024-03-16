@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1710619591 source:c:\users\hp\desktop\td_tp2\exercice4\complexe\complexe.cpp
+	"complexe.h"
+	<iostream>
+
+1710619591 c:\users\hp\desktop\td_tp2\exercice4\complexe\complexe.h
+	<iostream>
+
+1710619701 source:c:\users\hp\desktop\td_tp2\exercice4\complexe\main.cpp
+	<iostream>
+	"complexe.h"
+
